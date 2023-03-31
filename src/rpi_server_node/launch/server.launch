@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="rpi_server_node" name="server.py" type="server.py" output="screen/>
+</launch>
